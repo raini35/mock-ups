@@ -1,0 +1,93 @@
+body {
+	position: absolute; 
+	height: 100%; width: 98.5%; 
+	position: absolute; 
+	}
+	
+#top-navbar {
+	width: 302px; height: 39px; 
+	background-color: black; 
+	float: right; 
+}
+
+#logo {
+	position: relative; 
+	width: 491px; height: 193px; 
+	background-color: black; 
+  	overflow: auto;
+  	margin: auto;
+  	position: absolute;
+  	top: 0; left: 0; bottom: 200px; right: 0;
+
+}
+
+#searchbar {
+	position: relative; 
+	width: 586px; height: 39px; 
+	background-color: black; 
+	overflow: auto;
+  	margin: auto;
+  	position: absolute;
+  	top: 70px; left: 0; bottom: 0; right: 0;
+}
+
+#buttons {
+	position: relative; 
+	position: absolute; 
+	width: 586px; height: 39px; 
+	overflow: auto;
+  	margin: auto;
+  	position: absolute;
+  	top: 180px; left: 0; bottom: 0; right: 0;
+}
+
+#firstbutton {
+	position: relative; 
+	width: 126px; height: 33px; 
+	background-color: black; 
+	overflow: auto;
+  	margin: auto;
+  	position: absolute;
+  	top: 0; left: 0; bottom: 0; right: 135px;
+}
+
+#secondbutton {
+	position: relative; 
+	width: 126px; height: 33px; 
+	background-color: black; 
+	overflow: auto;
+  	margin: auto;
+  	position: absolute;
+  	top: 0; left: 135px; bottom: 0; right: 0;
+}
+
+#bottom-navbar {
+	position: relative
+	position: absolute; 
+	position: fixed; 
+	width: 100%; height: 40px;
+	left: 0px; 
+	background-color: grey; 
+	bottom: 0px; 
+}
+
+#left-bottom-navbar {
+	position: absolute; 
+	width: 224px; height: 24px;
+	background-color: black; 
+	left: 10px; 
+	bottom: 10px;
+	top: 50%; 
+    margin-top: -13px;
+}
+
+#right-bottom-navbar {
+	position: absolute; 
+	width: 224px; height: 24px;
+	background-color: black; 
+ 	bottom: 10px;
+    right:11px;
+    top: 50%; 
+    margin-top: -13px;
+	
+}
