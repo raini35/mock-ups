@@ -1,0 +1,21 @@
+div {
+	position: relative; 
+	}
+	
+#yellow {
+	width: 100px; height: 100px; 
+	float: right; 
+	background-color: yellow; 
+	}
+	
+#blue {
+	float: right; 
+	width: 100px; height: 100px; 
+	background-color: blue; 
+}
+	
+#red {
+	float: right; 
+	width: 100px; height: 100px; 
+	background-color: red;  
+}
